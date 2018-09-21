@@ -1,6 +1,6 @@
 # Engapp Chat ![Github Stars](https://img.shields.io/github/stars/ffpsj/engapp-chat.svg?label=Stars) ![Github Forks](https://img.shields.io/github/forks/ffpsj/engapp-chat.svg?label=Forks) ![Github Watchers](https://img.shields.io/github/watchers/ffpsj/engapp-chat.svg?label=Watchers) ![Github Followers](https://img.shields.io/github/followers/ffpsj.svg?label=Followers) ![Github Contributors](https://img.shields.io/github/contributors/ffpsj/engapp-chat.svg?label=Contributors) ![Github Repository Size](https://img.shields.io/github/repo-size/ffpsj/engapp-chat.svg?label=Size)
 
-![Header](https://i.imgur.com/mXaaPdD.png)
+![Header](https://i.imgur.com/VDNUIIe.png)
 
 A simple modified whatsapp clone made in Flutter
 
@@ -18,4 +18,4 @@ A simple modified whatsapp clone made in Flutter
 
 ## Contact Me
 + E-mail: ffpsjr@gmail.com
-+ Telefone: (82) 9 9121-3725
++ Phone: +5582991213725
